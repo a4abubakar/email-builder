@@ -112,3 +112,11 @@ The Playwright config and the two scripts use `channel: "msedge"` because Playwr
 - Per-block dark-mode logo variants and a plain-text part generated from the same document.
 - Custom blocks and ESP merge-tag validation (Liquid, Handlebars).
 - Click-to-select in the preview, and a rich-text field that still exports safe markup.
+
+## Author
+
+**Muhammad Abubaker Siddiq**, Senior Frontend Engineer (React, Next.js, TypeScript)
+
+- GitHub: [@a4abubakar](https://github.com/a4abubakar)
+- Portfolio: https://portfolio-next-six-tau.vercel.app
+- LinkedIn: https://www.linkedin.com/in/muhammad-abubaker-siddiq-27b37615b

@@ -2,6 +2,18 @@
   "name": "email-builder",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Muhammad Abubaker Siddiq",
+    "url": "https://github.com/a4abubakar"
+  },
+  "homepage": "https://email-builder-omega-neon.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a4abubakar/email-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a4abubakar/email-builder/issues"
+  },
   "scripts": {
     "dev": "next dev -p 3003",
     "build": "next build",
