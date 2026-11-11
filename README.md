@@ -2,8 +2,8 @@
 
 Drag-and-drop block editor that exports **production-style HTML email**: nested `role="presentation"` tables, inline styles, Outlook ghost tables and a VML button, a mobile stacking media query, dark-mode hooks and a Gmail 102 KB clipping check.
 
-- Live demo: `TODO`
-- GitHub: `TODO`
+- Live demo: https://email-builder-omega-neon.vercel.app
+- GitHub: https://github.com/a4abubakar/email-builder
 
 | Light, desktop | Dark, desktop |
 | --- | --- |
